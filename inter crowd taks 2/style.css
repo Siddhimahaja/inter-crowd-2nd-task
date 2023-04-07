@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 250px;
+    box-shadow: 0 0 10px 0 #000;
+    margin: 100px auto;
+    background:rgb(225, 240, 245);
+    padding: 50px 25px;
+
+}
